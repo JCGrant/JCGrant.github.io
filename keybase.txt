@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jcgrant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jcgrant.com
+  * I am jcgrant (https://keybase.io/jcgrant) on keybase.
+  * I have a public key with fingerprint B919 ED51 D5B6 464F DE65  8485 1EBB D452 BD82 D307
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120bdc12eb2f00a0dcbf79a64773fecc01760656bc175d405b5ece1b9d0966d47900a",
+            "fingerprint": "b919ed51d5b6464fde6584851ebbd452bd82d307",
+            "host": "keybase.io",
+            "key_id": "1ebbd452bd82d307",
+            "kid": "0101cf9cd74d9cec094bb23cd5606f02faec44bae4e4668d9b0363410b62c5961e580a",
+            "uid": "81fe73f80f080c0bc33a5f1de1663e19",
+            "username": "jcgrant"
+        },
+        "service": {
+            "hostname": "jcgrant.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487091883,
+    "expire_in": 157680000,
+    "prev": "d906ab0d25441a7414fb88f526523c779a27c2ab745f71af54959a7800fa795a",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNtAnicbVJ/TFVVHH8Uv4cblfTDSuFuYirSuffdc388wiXGLGmRQkhkPe6599zH
+fT7ffbwfPAixKDcjHJtWiEwbivIjRCYriFEEjck0EpVgNjCQMQkF3BMFKtLOY/lH
+W+efs/M9n8/nfL6f8+1e9qghPGBl+y/bv/+oPyTgp65yjyGzWmgopJCuFFCmQmoX
+XtqwTcEut3mXplAmCtAMQIpMMxgxKgASUGSk8qLEsTxvVLEsA5rnAAc5JNM8VFgA
+EcQyppGoAJHjFJYXCYuKo1TNbsFOh1Ozu4ksEmkRK5BWIOJYjlUVzEGBFSCNEVJY
+yCBFYBQj4AkxR3f5GcQcklw4XtNJjRzMS/b+B//QN6BlVZQVnlVEGctAZBFijLIC
+iVsVMKqEZZZFEmYxy3GCIiJg5IwsDRDHyFDkaAyFJd+eJTmBVjHpVwAqEIAMkGw0
+SlClFUxznBHToh/owk67tBsTtFW2OCXSZ1EcRYp5moz9ufob+S8gXtZ3E6bDqbt1
+WbeRixy32+Ey+YnuAocf6cXI/K+GGWl2haRIGHnY6dJ0O2WiCVJ2a35RmhV4INKC
+YIyjcL5Dc2Kz5kdAnhMAWf53cB6RVETASQgoDGRZWuJZmlWRIKiQ4SAJiCefy/Ay
+IyGehSpPSypkRShKPBFRJV6E/lBcONeuUyYGEp+ShWi6NItdcnucmCr6sWtnoCEg
+3BAc9Ih/vAzhYZEPh675TKShZ/VURpp3X3O1LTLJ23Z5cYMe/WF1V0fMxrbg3p2/
+NTFBvd7zkyPbMq7Uj2YfDdBsnbMNvWnfzdY2fb357+yR8muGAVPimn2fhtcG+xbZ
+8YiyCz3fzhRGDY/ZDz5DwfezQ6fLqGjzmY6tL+0/Unc2ayCsZjLU+rHndFTlU/Vv
+jMVWem6256Dl6SaT0Zfre732yVsv2HzDGV+UTrwH23/fCla7GUvzROOr0bWdKWiu
++sBJR4xaUtFuHe140DfWv97b+FfljROZT5xa39p+bWHu7ZD0RKr74IaIkv3MqsDq
+waHlyz7oL3i2tP94/oWqztuT99jOgeGbg5lfrfHttZQYJuDVWcuNzM5Ld7OStxSf
+StvYOv3rodE/pa6rXQknI7Ijtp++GPZi6cBbNUOLm9rqz22i5mJzCxz3exj7Z5bD
+5dZ0NWsqf1vq4/xi3Z1ox7ufx1+pWtF24Po59ejFS4Eec8U8frk+JzGyZ886YB9s
+ffre5i3BKX13R9wZdeNNM0nfeMely4s7klJN66ImzxbjactUvX7+y7IHRT+UlrWO
+7ylqNHc3zIOg0MfEhezUGl/NOwvpqcV7s9yrbpXffm7HsU+SXntemD/suH48pW/m
+FZQQKgXnDsYGZpUNNa9sOLTiRMzoz2HW6PsJnpbS5LV3Kv4ISS40Iq4l+c1+IdVq
+E6qGHS3H1tLCkX8AuR/LRA==
+=sOSK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jcgrant
+
+==================================================================

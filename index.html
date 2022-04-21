@@ -1,26 +1,102 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>James Grant</title>
+    <link href="./dist/index.css" rel="stylesheet" />
   </head>
   <body>
-    <h1>James Grant</h1>
-    <p>Here are some links:</p>
-    <ul>
-      <li><a href="https://www.jcgrant.com/blog">Blog</a></li>
-      <li><a href="https://www.jcgrant.com/cv/cv.pdf">CV</a></li>
-      <li><a href="https://meeting.jcgrant.com">Book a Meeting</a></li>
-      <li><a href="https://github.com/JCGrant">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/jamescolingrant/">LinkedIn</a></li>
-    </ul>
+    <div
+      class="min-h-screen flex flex-col gap-8 p-6 items-center bg-gradient-to-br from-[#078b2c] to-[#0ec45d] text-gray-100 text-opacity-90 text-sm text-center"
+    >
+      <div class="w-64 flex flex-col gap-2">
+        <img
+          class="mb-4 border-black bg-black bg-opacity-70 p-6 rounded-full"
+          src="./avatar.png"
+          alt="profile pic"
+        />
+        <h1 class="text-4xl font-bold mt-2">James Grant</h1>
+        <p>
+          Senior Software Engineer with a passion for solving interesting
+          problems. 🚀
+        </p>
+      </div>
+
+      <div class="w-64 flex flex-col gap-2">
+        <h2 class="text-2xl font-bold">Values</h2>
+        <ul class="list-none flex flex-col gap-1">
+          <li>Communication is key</li>
+          <li>A sense of humour goes a long way</li>
+          <li>Never stop learning</li>
+          <li>Raise those around you</li>
+        </ul>
+      </div>
+
+      <div class="w-64 flex flex-col gap-2">
+        <h2 class="text-2xl font-bold">Links</h2>
+        <a
+          href="https://www.jcgrant.com/blog"
+          target="_blank"
+          class="block p-2 bg-black bg-opacity-70 duration-150 hover:scale-105 ease-bounce cursor-pointer rounded-md"
+        >
+          Blog
+        </a>
+        <a
+          href="https://www.jcgrant.com/cv/cv.pdf"
+          target="_blank"
+          class="block p-2 bg-black bg-opacity-70 duration-150 hover:scale-105 ease-bounce cursor-pointer rounded-md"
+        >
+          CV
+        </a>
+        <a
+          href="https://meeting.jcgrant.com"
+          target="_blank"
+          class="block p-2 bg-black bg-opacity-70 duration-150 hover:scale-105 ease-bounce cursor-pointer rounded-md"
+        >
+          Book a Meeting
+        </a>
+        <a
+          href="https://github.com/JCGrant"
+          target="_blank"
+          class="block p-2 bg-black bg-opacity-70 duration-150 hover:scale-105 ease-bounce cursor-pointer rounded-md"
+        >
+          GitHub (100+ Projects)
+        </a>
+        <a
+          href="https://www.linkedin.com/in/jamescolingrant/"
+          target="_blank"
+          class="block p-2 bg-black bg-opacity-70 duration-150 hover:scale-105 ease-bounce cursor-pointer rounded-md"
+        >
+          LinkedIn
+        </a>
+      </div>
+    </div>
+
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-6741282-18', 'auto');
-      ga('send', 'pageview');
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "https://www.google-analytics.com/analytics.js",
+        "ga"
+      );
+      ga("create", "UA-6741282-18", "auto");
+      ga("send", "pageview");
     </script>
   </body>
 </html>
